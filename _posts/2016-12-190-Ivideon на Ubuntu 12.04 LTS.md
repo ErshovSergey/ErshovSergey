@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 Обновил до актуальной версии  сервер видеонаблюдения Ivivdeon.
 ### More Information
