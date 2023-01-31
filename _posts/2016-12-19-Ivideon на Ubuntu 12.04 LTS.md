@@ -4,6 +4,3 @@
 Проще было запустить в контейнере Docker.  
 Видео архив и настройки хранятся вне контейнера.  
 Результат (здесь)[github.com/ErshovSergey/ivideon_ubuntu1204]  
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
