@@ -2,6 +2,7 @@
 2023-01-28
 layout: post
 title: Возврат из ниоткуда!
+page.title: Возврат из ниоткуда!
 ---
 
 <h1>{{ permalink }}</h1>
