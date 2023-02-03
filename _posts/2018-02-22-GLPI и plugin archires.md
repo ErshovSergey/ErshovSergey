@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post  
 title: GLPI и plugin archires  
 ---
 Для собственной памяти запишу особенности настройки плагина [archires](https://forge.glpi-project.org/projects/archires), в переводе *Сетевые архитектуры* системы glpi --- оф.сайт [glpi-project.org/](https://glpi-project.org/).  
@@ -14,7 +14,7 @@ title: GLPI и plugin archires
 ### Сопоставление иконки типу оборудования:  
 -   поместить изображение (например размером 64*64 в формате png) в папку *glpi-root/plugins/archires/pics*  
 -   назначить изображения типам объектов (Настройки\Плагины\Сетевые архитектуры --- /plugins/archires/front/config.form.php)  
-![alt text](img/2018-02-22-GLPI и plugin archires-img0.png)  
+![alt text](/img/2018-02-22-GLPI и plugin archires-img0.png) 
 
 [Иконки для Объектов](/img/pics.zip).
 
