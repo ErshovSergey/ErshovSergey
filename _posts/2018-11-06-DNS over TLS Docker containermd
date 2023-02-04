@@ -1,0 +1,8 @@
+---
+layout: post
+title: DNS over TLS Docker container  
+---
+Контейнер с dns сервером для защиты от изменения провайдером запросов dns.  
+Работает через cloudflare.com, есть возможность перенаправить отдельные зоны на другой DNS сервер (например за внутреннюю сеть будет отвечать внутренний dns сервер).  
+Размер образа ~ 16 mb.  
+Ссылка [https://github.com/ErshovSergey/dns-over-tls_in-docker](https://github.com/ErshovSergey/dns-over-tls_in-docker)  
