@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   {{ page.date | date: "%Y-%e-%B" }}
   <h1>{{ page.title }}</h1>
-  {{ page.date | date: "YYYY-MM-DD HH:MM:SS" }}
+  {{ page.date | date: "%YYYY-%MM-%DD %HH:%MM:%SS" }}
     
   <div class="entry">
     {{ content }}
