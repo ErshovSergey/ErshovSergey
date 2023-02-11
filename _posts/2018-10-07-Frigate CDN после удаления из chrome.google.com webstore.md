@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Frigate CDN после удаления из chrome.google.com/webstore/  
+excerpt_separator: <!--end_excerpt-->
 ---
 После некоторых событий расширение Frigate CDN было удалено из https://chrome.google.com/webstore/, то что осталось в webstore — работает не так как надо.  
+<!--end_excerpt-->
 Но Frigate CDN можно использовать «как раньше» после установки из файла.  
 Для этого:  
 - сохранить файл [extension_2_1_167](/img/extension_2_1_167.crx) (правая кнопка мыши\open link in new tab  
