@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Зеркало для обновлений Eset NOD32 для запуска в контейнере docker  
+excerpt_separator: <!--end_excerpt-->
 ---
 Давно знаком с антивирусом Eset NOD32, где-то начиная с версии 2.  
 <!--end_excerpt-->
