@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: О блоге
 permalink: /about/
 ---
-
-Some information about you!
-
+Ершов Сергей.  
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Спеиалист в ИТ.  
 ### Contact me
-
 [email@domain.com](mailto:email@domain.com)
