@@ -5,8 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">  {{ page.date | date: "%Y-%m-%d" }} - {{ post.title }}</a></h1>
+      {{ page.date | date: "%Y-%m-%d" }}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
