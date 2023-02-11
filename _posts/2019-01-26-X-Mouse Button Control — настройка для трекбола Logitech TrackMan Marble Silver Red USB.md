@@ -1,9 +1,11 @@
 ---
 layout: post
 title: X-Mouse Button Control — настройка для трекбола Logitech TrackMan Marble Silver Red USB  
+excerpt_separator: <!--end_excerpt-->
 ---
 В трекболе Logitech TrackMan Marble Silver Red USB нет средней кнопки и колеса для скролинга.  
-Для эмуляции можно использовать программу X-Mouse Button Control (официальный сайт).  
+Для эмуляции можно использовать программу X-Mouse Button Control ([официальный сайт](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)).  
+<!--end_excerpt-->
 Следующие настройки обеспечивают эмуляцию средней кнопки путем нажатия на левую и правую кнопку мыши одновременно. Если при нажатых кнопках вертеть шариком — будет скролинг.  
 Для компьютера кнопки нажимаются не одновременно — всегда какая -нибудь раньше, поэтому будет две настройки.  
 1. Если первой была нажата правая кнопка:  
