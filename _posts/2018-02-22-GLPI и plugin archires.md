@@ -1,10 +1,11 @@
 ---
 layout: post  
 title: GLPI и plugin archires  
+excerpt_separator: <!--end_excerpt-->
 ---
 Для собственной памяти запишу особенности настройки плагина [archires](https://forge.glpi-project.org/projects/archires), в переводе *Сетевые архитектуры* системы glpi --- оф.сайт [glpi-project.org/](https://glpi-project.org/).  
 Далее описывается для версий glpi --- 9.2.4 и  archires --- 2.5.1.
-
+<!--end_excerpt-->
 ### Для корректного отображения схемы необходимо чтобы каждый Объект из Активов:  
 -   имел заполненное поле «Местоположение»  
 -   имел сетевой порт  
